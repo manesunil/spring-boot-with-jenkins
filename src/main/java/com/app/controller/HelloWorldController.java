@@ -10,6 +10,6 @@ public class HelloWorldController {
 
     @GetMapping("/mes")
     public String welcome(){
-        return "Hello Jenkins build successfully";
+        return "Hello Jenkins build successfully good luck";
     }
 }
